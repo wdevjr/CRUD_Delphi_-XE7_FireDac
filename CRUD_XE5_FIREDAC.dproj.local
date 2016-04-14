@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/02/01 21:48:18.000.694,G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\UPrinc.dfm=C:\Users\warhjr\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/02/01 21:48:38.000.212,G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\CRUD_XE5_FIREDAC.dproj=C:\Users\warhjr\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2014/02/02 07:42:42.000.554,G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\Unit2.dfm=G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\UnThema.dfm</Transaction>
+    <Transaction>2014/02/02 07:47:53.000.904,G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\UnThema.dfm=G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\UThema.dfm</Transaction>
+    <Transaction>2014/02/02 08:11:01.000.914,G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\Unit1.dfm=G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\UDM.dfm</Transaction>
+    <Transaction>2014/02/03 21:33:18.000.730,G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\UConsulta.dfm=G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\Unit1.dfm</Transaction>
+    <Transaction>2014/02/04 00:03:25.000.900,G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\UConsultaCidade.dfm=G:\ProjetosESistemas\Sistemas\CRUD_Delphi_ XE5_FireDac\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
